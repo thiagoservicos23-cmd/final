@@ -1,7 +1,7 @@
 # =====================================================
 # CONFIGURAÇÕES (Mude para sua URL do Vercel)
 # =====================================================
-$VERCEL_URL = "https://final-buok.vercel.app"
+$VERCEL_URL = "https://final-b2ky.vercel.app"
 $URL_ZIP = "$VERCEL_URL/Pmw%20games%20unlock.zip"
 $URL_FIX = "https://raw.githubusercontent.com/KRAYz-Oficial/KRAYz-Oficial/67065f398be63e1fe2c29ef2838f3030490eb3b6/Remover-bugs.ps1"
 
